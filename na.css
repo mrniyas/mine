@@ -8,12 +8,13 @@ h1{
     color: greenyellow;
     text-shadow: 4%;
     text-align: center;
+    padding:20px;
 }
 
 div.nav{
     background-color: black;
     border-radius: 40px;
-    padding:30px;
+    
 }
 p{
     color: white;
