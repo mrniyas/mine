@@ -13,6 +13,7 @@ h1{
 div.nav{
     background-color: black;
     border-radius: 40px;
+    padding:30px;
 }
 p{
     color: white;
